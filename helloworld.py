@@ -1,9 +1,7 @@
+def main():
+    print("Hello, GitHub!")
+    print("My Python project is successfully created.")
+    print("Created by Faizan.")
 
-
-
-dollars = float(input("Enter amount in dollars: "))
-
-exchange_rate = 83
-rupees = dollars * exchange_rate
-
-print("Amount in rupees:", rupees)
+if __name__ == "__main__":
+    main()
